@@ -1,4 +1,5 @@
-cvzone==1.6.1
-opencv-python==4.8.1.78
+cvzone
+opencv-python
 time
-streamlit==1.28.0
+streamlit
+python
