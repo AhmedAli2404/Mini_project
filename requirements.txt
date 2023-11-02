@@ -1,0 +1,4 @@
+cvzone==1.6.1
+opencv-python==4.8.1.78
+time
+streamlit==1.28.0
